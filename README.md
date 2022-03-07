@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika19121999&label=Profile%20views&color=0e75b6&style=flat" alt="ritika19121999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritika19121999" alt="ritika19121999" /></a> </p>
+<img align="right" alt="Analysing Data" width="400" src="https://cdn.dribbble.com/users/3876574/screenshots/9793041/girl_laptop_800x600.gif">
 
 - 📫 How to reach me **ritikajaiswal687@gmail.com**
 
