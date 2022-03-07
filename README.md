@@ -1,3 +1,4 @@
+![MasterHead](https://www.security.ky/wp-content/uploads/2016/05/Business-Gif.gif)
 <h1 align="center">Hi 👋, I'm Ritika Jaiswal</h1>
 <h3 align="center">I am hoping to blend my newfound data analysis skills with existing business knowledge to bring unique insights to this role.</h3>
 
